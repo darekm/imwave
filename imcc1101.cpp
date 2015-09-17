@@ -1,4 +1,4 @@
-#include <IMCC1101.h>
+#include <imcc1101.h>
 #if defined(ARDUINO) && ARDUINO >= 100  
 #include "Arduino.h"  
 #else  
